@@ -1,8 +1,9 @@
 import React from 'react'
+import './index.css'
 
 const Index = () => {
     return (
-        <div>Estoy en Index :D</div>
+        <div className='espacioIndex'>Estoy en Index :D</div>
     )
 }
 
