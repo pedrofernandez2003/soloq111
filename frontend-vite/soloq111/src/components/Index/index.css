@@ -1,4 +1,8 @@
 .espacioIndex{
-    background-color: #F2A950;
-    height: 800px;
+    /*background-color: #F2A950;*/
+    border-color: #F2A950;
+    border-radius: 5px;
+    border-style:dashed;
+    height: 600px;
+    color:aliceblue;
 }

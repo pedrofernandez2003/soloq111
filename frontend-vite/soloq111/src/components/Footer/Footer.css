@@ -1,4 +1,9 @@
 .footer {
-    background-color: #148BA6;
+    border-color: #148BA6;
+    border-radius: 5px;
+    border-style:dashed;
     margin-top: 2rem;
+    color: aliceblue;
+    margin-bottom: 0;
+    height: 100px;
 }
