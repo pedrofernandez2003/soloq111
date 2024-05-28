@@ -18,12 +18,12 @@ const Header = () => {
 
                     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                         <div class="navbar-nav">
-                            <NavLink to='/' className='nav-link' > Inicio </NavLink> 
-                            <NavLink to='/leaderboard/high-elo' className='nav-link'> 
+                            <NavLink to='/soloq111/' className='nav-link' > Inicio </NavLink> 
+                            <NavLink to='/soloq111/leaderboard/high-elo' className='nav-link'> 
                                 <img src="https://static.bigbrain.gg/assets/lol/s12_rank_icons/challenger.png" alt="Logo" width="30" height="24" class="d-inline-block align-text-top"></img>
                                 Leaderboard High-elo 
                             </NavLink>
-                            <NavLink to='/leaderboard/low-elo' className='nav-link'> 
+                            <NavLink to='/soloq111/leaderboard/low-elo' className='nav-link'> 
                                 <img src="https://static.bigbrain.gg/assets/lol/s12_rank_icons/diamond.png" alt="Logo" width="30" height="24" class="d-inline-block align-text-top"></img>
                                 Leaderboard Low-elo 
                             </NavLink>

@@ -14,8 +14,8 @@ function App() {
 
       <div className='container'>
         <Routes>
-          <Route path='/' element={<Index />} />
-          <Route path='/leaderboard/:elo' element={<Leaderboard />} />
+          <Route path='/soloq111/' element={<Index />} />
+          <Route path='/soloq111/leaderboard/:elo' element={<Leaderboard />} />
         </Routes>
       </div> 
     
